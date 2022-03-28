@@ -1,0 +1,1 @@
+C:\Users\Vadym\PycharmProjects\QTmerchCheck\venv\Scripts\python.exe C:/Users/Vadym/PycharmProjects/QTmerchCheck/main.py
